@@ -9,7 +9,7 @@ If the last word does not exist, return 0.
 Note: A word is defined as a maximal substring consisting of non-space characters only.
 
 Example:
-
-Input: "Hello World"
-
+```
+Input: "Hello World"\
 Output: 5
+```
